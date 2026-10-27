@@ -1,0 +1,6 @@
+[invariant]
+runs = 256
+depth = 50
+fail_on_revert = false
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
